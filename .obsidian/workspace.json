@@ -11,8 +11,12 @@
             "id": "ed5547ec9a96fefd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test Note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test Note.md"
+              }
             }
           }
         ]
@@ -138,6 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98956a1db09476d0",
-  "lastOpenFiles": []
+  "active": "ed5547ec9a96fefd",
+  "lastOpenFiles": [
+    "Test Note.md"
+  ]
 }
